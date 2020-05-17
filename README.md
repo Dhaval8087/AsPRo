@@ -1,11 +1,12 @@
 # AsPRo
 Sample Prototype of 
-  -  API Versioning. 
-  -  Unit Of Work.
-  -  EF Core.
-  -  Swagger.
-  -  Auto Mapper.
-  -  OAuth Authentication.
+  -  API Versioning 
+  -  Unit Of Work
+  -  DI
+  -  EF Core
+  -  Swagger
+  -  Auto Mapper
+  -  OAuth Authentication
 
 # How to Setup 
 ```sh
